@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+   body {
+            background-image: url('https://picsum.photos/seed/picsum/200/300'); /* Replace with the actual path to your background image */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed; /* This keeps the background fixed while scrolling */
+            background-position: center center;
+        }
+	
+	.loginform{
+	background-color: #AEDEFC;
+	box-sizing : border-box;
+	width : 30%;
+	height : auto;
+	margin : 10% auto;
+	padding : 40px 20px;
+	}
+	
+	.fontColor{
+		color: #212F3D ;
+	}
+	
+	.inputBox{
+		margin : 10px 0px;
+	}
+	
