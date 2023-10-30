@@ -8,21 +8,27 @@
 		<description></description>
 		<servlet-class>Assignments.NumberSystemServlet</servlet-class>
 	</servlet>
+<<<<<<< HEAD
 	<servlet>
 		<servlet-name>DocumentServlet</servlet-name>
 		<display-name>DocumentServlet</display-name>
 		<description></description>
 		<servlet-class>Assignments.DocumentServlet</servlet-class>
 	</servlet>
+=======
+>>>>>>> 5cb2ff5f277b58fee93f8be158f5abe5375d4ceb
 	
 	<servlet-mapping>
 		<servlet-name>NumberSystemServlet</servlet-name>
 		<url-pattern>/NumberSystemServlet</url-pattern>
 	</servlet-mapping>
+<<<<<<< HEAD
 	<servlet-mapping>
 		<servlet-name>DocumentServlet</servlet-name>
 		<url-pattern>/DocumentServlet</url-pattern>
 	</servlet-mapping>
+=======
+>>>>>>> 5cb2ff5f277b58fee93f8be158f5abe5375d4ceb
 	
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
