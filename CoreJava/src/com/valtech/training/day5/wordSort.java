@@ -33,7 +33,8 @@ public class wordSort {
 		}
 
 		}
-		ratio = vowelCount / word.length();		
+//		ratio = vowelCount / word.length();		
+		return consonents;
 	}
 	public static void main(String[] args) {
 		

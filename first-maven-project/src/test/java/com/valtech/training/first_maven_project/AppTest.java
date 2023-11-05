@@ -30,7 +30,7 @@ public class AppTest
     
     public void testSayHello() {
     	App app = new App();
-    	assertEquals("Hello Worls", app.sayHello());
+    	assertEquals("Hello World", app.sayHello());
     }
 
     /**

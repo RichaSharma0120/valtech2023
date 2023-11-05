@@ -15,7 +15,6 @@ import javax.servlet.http.HttpServletRequest;
 
 public class CounterFilter implements Filter{
 
-	@Override
 	public void destroy() {
 		System.out.println("destroy of counter filter...");
 	}

@@ -1,4 +1,4 @@
-package Assignments;
+package assignments;
 
 import java.io.IOException;
 import javax.servlet.ServletException;

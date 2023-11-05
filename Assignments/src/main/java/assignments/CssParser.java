@@ -1,4 +1,4 @@
-package Assignments;
+package assignments;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
