@@ -29,7 +29,7 @@ public class Customer {
 	private Address address;
 	
 	
-	//for mant to many rel with accounts
+	//for many to many rel with accounts
 	@ManyToMany(targetEntity = Account.class, fetch = FetchType.LAZY, mappedBy = "customers")
 	private Set<Account> accounts;
 
