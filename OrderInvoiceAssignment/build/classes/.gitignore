@@ -1,0 +1,12 @@
+/aop.xml
+/com/
+/hibernate.properties
+/ioc-child.xml
+/ioc.xml
+/resources.xml
+/spring-beans-3.2.xsd
+/spring-context-3.2.xsd
+/spring-tx-3.2.xsd
+/tx.xml
+/tx1.xml
+/tx2.xml

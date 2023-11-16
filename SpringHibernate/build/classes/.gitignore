@@ -1,8 +1,12 @@
 /com/
-/Tx.xml
-/tx.xml
+/hibernate-invoice.properties
+/hibernate.properties
+/ioc-child.xml
+/ioc.xml
 /resources.xml
-/tx1.xml
-/spring-tx-3.2.xsd
+/spring-beans-3.2.xsd
 /spring-context-3.2.xsd
+/spring-tx-3.2.xsd
+/tx.xml
+/tx1.xml
 /tx2.xml
