@@ -30,7 +30,10 @@ public class EmployeeServiceImpl implements EmployeeService{
 		employeeRepo.save(new Employee(1, "Raj", 30, 8, 10, 1300000,departmentRepository.getReferenceById(1)));
 		employeeRepo.save(new Employee(2, "Anjali", 36, 9, 12, 12334456,departmentRepository.getReferenceById(2)));
 		employeeRepo.save(new Employee(3, "Sarthak", 39, 10, 14, 1800000,departmentRepository.getReferenceById(3)));
-		employeeRepo.save(new Employee(4, "Sana", 40, 15, 18, 2400000,departmentRepository.getReferenceById(4)));
+		employeeRepo.save(new Employee(4, "Sana", 50, 28, 30, 3500000,departmentRepository.getReferenceById(4)));
+		employeeRepo.save(new Employee(5, "Navya", 56, 35, 38, 2000000,departmentRepository.getReferenceById(1)));
+		employeeRepo.save(new Employee(6, "Manya", 44, 22, 28, 2600000,departmentRepository.getReferenceById(2)));
+		employeeRepo.save(new Employee(7, "Rahul", 38, 13, 19, 5600000,departmentRepository.getReferenceById(3)));
 	}
 	
 	
